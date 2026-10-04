@@ -4,7 +4,7 @@ Fine-tuning `bert-base-uncased` (PyTorch + Hugging Face) to classify news articl
 
 The BERT model reaches **94.54% test accuracy**, a **+2.38 point** gain over a TF-IDF + Logistic Regression baseline (92.16%).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/bert-ag-news-classification/blob/main/notebooks/BERT_AG_News_PyTorch_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<bhumannagariarchana>/bert-ag-news-classification/blob/main/notebooks/BERT_AG_News_PyTorch_Colab.ipynb)
 
 ## Highlights
 
